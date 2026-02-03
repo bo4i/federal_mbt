@@ -106,7 +106,7 @@ pip install requests tqdm pytesseract pdf2image pymorphy3
 Диапазон дат рассчитывается автоматически: **пятница → пятница**
 
 ```bash
-python pipeline.py --base-dir "D:\searchreferallaw"
+python pipeline.py
 ```
 
 ---
