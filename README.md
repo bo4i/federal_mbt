@@ -115,7 +115,7 @@ python pipeline.py
 
 ```bash
 python pipeline.py \
-  --base-dir "D:\searchreferallaw" \
+  --base-dir "Путь к вашей директории" \
   --date-from 29.01.2026 \
   --date-to 05.02.2026
 ```
@@ -134,8 +134,8 @@ python pipeline.py \
 **Действие**
 
 * Program/script: `python`
-* Arguments: `pipeline.py --base-dir "D:\searchreferallaw"`
-* Start in: `D:\searchreferallaw`
+* Arguments: `pipeline.py --base-dir "Путь к вашей директории"`
+* Start in: `Путь к вашей директории`
 
 ---
 
